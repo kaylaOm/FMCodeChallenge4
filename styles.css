@@ -13,7 +13,7 @@ main{
 
 .container{
   margin: auto;
-  width: 50%;
+  width: 20em;
   background-image: url("images/bg-pattern-card.svg");
   background-size: contain;
   background-repeat: no-repeat;
